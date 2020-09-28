@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Teste
+Exec=/home/Guilherme.Domingues/projects/test-electron/test-electron-linux-x64/test-electron
+Terminal=false
+Type=Application
+StartupNotify=true
+Encoding=UTF-8
